@@ -145,7 +145,7 @@ rtecheck/
 
 ## 许可
 
-MIT License © 2026
+MIT License © 2026 Master Gui
 
 ## 术语
 
